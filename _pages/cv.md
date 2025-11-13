@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* **Master in Artificial Intelligence**, The Chinese University of Hong Kong (CUHK)  
-  *2025.09 – 2027.01 (Expected), Hong Kong S.A.R*
+* **The Chinese University of Hong Kong (CUHK)**   <span style="float:right;">*Hong Kong S.A.R*</span>
+  **Master in Artificial Intelligence** <span style="float:right;">*2025.09 – 2027.01 (Expected)*</span>
   
-* **Bachelor of Engineering in Computer Science**, Harbin Institute of Technology, Shenzhen (HITSZ)  
-  *2021.09 – 2025.06, Shenzhen, China*
+* **Harbin Institute of Technology, Shenzhen (HITSZ)** <span style="float:right;">*Shenzhen, China*</span>  
+  **Bachelor of Engineering in Computer Science** <span style="float:right;">*2021.09 – 2025.06*</span>
 
-* **Exchange Student**, National University of Singapore (NUS)  
-  *2023.05 – 2023.07, Singapore*
+* **National University of Singapore (NUS)** <span style="float:right;">*Singapore*</span>  
+  **Exchange Student** <span style="float:right;">*2023.05 – 2023.07*</span>
 
 Patents
 ======
