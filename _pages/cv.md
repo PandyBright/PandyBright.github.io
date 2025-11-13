@@ -67,15 +67,19 @@ Projects
 *May 2023 – Jul 2023*
 
 * Designed system simulating autonomous driving in maze-like environments.  
-* Implemented YOLO-based obstacle detection and CNN-based navigation strategies.  
-* Built algorithms for online map generation and real-time path optimization.
----
-**AR Science Laboratory (Hololens 2)**  
-*Sept 2021 – Jun 2022*
+  * Implemented YOLO-based obstacle detection and CNN-based navigation strategies.  
+    * Built algorithms for online map generation and real-time path optimization.
+
+**AR Science Laboratory (Hololens 2)** <span style="float:right;">Sept 2021 – Jun 2022</span>
 
 * Built immersive AR experiment environment for physics & chemistry.  
 * Created 3D virtual equipment using 3DsMax and programmed interaction via C#.  
 * Delivered functional AR prototype supporting STEM education research.
+
+
+  * Built immersive AR experiment environment for physics & chemistry.  
+  * Created 3D virtual equipment using 3DsMax and programmed interaction via C#.  
+  * Delivered functional AR prototype supporting STEM education research.
 
 
 Awards
