@@ -38,12 +38,6 @@ Work experience
 * Designed scene-oriented and object-oriented attack pipelines on nuScenes, achieving **30–45% degradation** across all tasks.  
 * Revealed perception vulnerabilities and guided robust multi-modal fusion system design.
 
-<span style="font-size:1.1em;">**Research Assistant**, *HITSZ–Zhengtong Joint Lab*  <span style="float:right;">*Feb 2024 – Jul 2024*<span></span>
-
-*Research on Robust Camouflage Generation Based on 3D Models, Shenzhen, China*
-* Developed adversarial camouflage using conditional rendering on 3D models.  
-* Reproduced 3D reconstruction & neural rendering pipelines; curated multi-view datasets.  
-* Analyzed adversarial robustness of navigation-targeted detection systems.
 
 <span style="font-size:1.1em;">**Intern & Technical Consultant.**  <span style="float:right;">*Nov 2024 – Feb 2025*</span></span>
 
@@ -51,6 +45,13 @@ Work experience
 * Designed embedded LLM system architecture and dialogue management modules.  
 * Built multimodal control pipeline linking LLMs with IoT devices & WeChat Mini Program.  
 * Developed a real-time conversational AI prototype for interactive physical systems.
+
+<span style="font-size:1.1em;">**Research Assistant**, *HITSZ–Zhengtong Joint Lab*  <span style="float:right;">*Feb 2024 – Jul 2024*<span></span>
+
+*Research on Robust Camouflage Generation Based on 3D Models, Shenzhen, China*
+* Developed adversarial camouflage using conditional rendering on 3D models.  
+* Reproduced 3D reconstruction & neural rendering pipelines; curated multi-view datasets.  
+* Analyzed adversarial robustness of navigation-targeted detection systems.
 
 <span style="font-size:1.1em;">**Intern — AI Framework Evaluation.** <span style="float:right;">*Sept 2023 – Jan 2024*</span>
 
