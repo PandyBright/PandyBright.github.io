@@ -20,8 +20,3 @@ You can view my CV at the following link: [CV](https://drive.google.com/file/d/1
 
 <!-- Mapmyvisitors widget -->
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=557&t=tt&d=bIu5iVJPHbX7xZBPhxUy-SJgdGJ-216hlNrnmVkI1CI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-
-
-
----
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gyZs69T4K1iwifwfqaEjRYf6hkE3D0GTcLJZlnmYfz8"></script>
