@@ -19,4 +19,4 @@ You can view my CV at the following link: [CV](https://drive.google.com/file/d/1
 
 
 <!-- Mapmyvisitors widget -->
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=bIu5iVJPHbX7xZBPhxUy-SJgdGJ-216hlNrnmVkI1CI&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=bIu5iVJPHbX7xZBPhxUy-SJgdGJ-216hlNrnmVkI1CI&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
